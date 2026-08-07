@@ -1,0 +1,4 @@
+# dndvanguard 키 목록 -- 한 줄에 하나. 형식:  <sha256>  또는  <sha256>:<HWID>
+# HWID를 붙이면 그 PC에서만 사용 가능한 하드웨어 락 키.
+# (unbound) mercy
+4d51fd998fd3a724c06ab00bb151c13a45de268c22cb4f088d826dc260f06218
