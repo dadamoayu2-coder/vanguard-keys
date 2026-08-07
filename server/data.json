@@ -1,0 +1,23 @@
+﻿{
+    "keys":  [
+                 {
+                     "hash":  "71a463eed7096f2b14b157dba85ad914e38e555bccee6d786494d91c65c5b20b",
+                     "revoked_at":  null,
+                     "note":  "test-key (this PC)",
+                     "hwid":  "900CDA153A1AE5FC7C462C9EA812D4D07CDF8B02C8A41695435FA750B3F46A3B",
+                     "created":  "2026-08-07T04:17:48.509Z",
+                     "revoked":  false
+                 }
+             ],
+    "logs":  [
+                 {
+                     "msg":  "DATA STORE INITIALIZED (GitHub)",
+                     "ts":  "2026-08-07T04:17:48.509Z"
+                 }
+             ],
+    "notices":  [
+
+                ],
+    "version":  2,
+    "broadcast":  ""
+}
